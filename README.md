@@ -1,3 +1,3 @@
 # ThingsTranslator
 
-DEMO - https://www.youtube.com/watch?v=xYSLxFrCJt0
+[Demo] (https://www.youtube.com/watch?v=xYSLxFrCJt0)
